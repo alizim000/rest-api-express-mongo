@@ -1,0 +1,19 @@
+{
+  "name": "web-api-express-mangoos",
+  "version": "1.0.0",
+  "description": "Project CA2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alizim000/rest-api-express-mongo.git"
+  },
+  "author": "Ali Moinuddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alizim000/rest-api-express-mongo/issues"
+  },
+  "homepage": "https://github.com/alizim000/rest-api-express-mongo#readme"
+}
